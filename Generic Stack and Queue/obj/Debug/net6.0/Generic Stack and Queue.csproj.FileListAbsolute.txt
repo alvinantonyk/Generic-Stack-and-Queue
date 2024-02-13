@@ -1,0 +1,14 @@
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\bin\Debug\net6.0\Generic Stack and Queue.exe
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\bin\Debug\net6.0\Generic Stack and Queue.deps.json
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\bin\Debug\net6.0\Generic Stack and Queue.runtimeconfig.json
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\bin\Debug\net6.0\Generic Stack and Queue.dll
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\bin\Debug\net6.0\Generic Stack and Queue.pdb
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.AssemblyInfo.cs
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.dll
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\refint\Generic Stack and Queue.dll
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.pdb
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\Generic Stack and Queue.genruntimeconfig.cache
+C:\Users\alvinantonyk\source\repos\Generic Stack and Queue\Generic Stack and Queue\obj\Debug\net6.0\ref\Generic Stack and Queue.dll
